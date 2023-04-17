@@ -1,0 +1,3 @@
+[submodule "ServerRenderer"]
+	path = ServerRenderer
+	url = https://github.com/britishtrianglez/ServerRenderer
